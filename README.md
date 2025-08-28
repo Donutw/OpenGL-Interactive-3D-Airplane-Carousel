@@ -21,8 +21,10 @@ It features hierarchical modeling, lighting, texture mapping, and multiple inter
 
 ---
 
-##  Build Instructions
-- **Dependencies**: FreeGLUT / OpenGL  
-- **Compile** (Windows example with MinGW):
-  ```bash
-  g++ main.cpp -lfreeglut -lopengl32 -lglu32 -o Carousel.exe
+##  How to Run
+
+1. Go to the [Releases](../../releases) page.
+2. Download **Carousel_Release.zip**.
+3. Extract the zip file.
+4. Double-click **Carousel.exe** (make sure the `textures/` folder is in the same directory).
+
