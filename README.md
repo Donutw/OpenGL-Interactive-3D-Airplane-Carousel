@@ -3,8 +3,16 @@
 This project is an **interactive 3D scene** implemented in C++ with **OpenGL (GLUT)**.  
 It features hierarchical modeling, lighting, texture mapping, and multiple interaction modes.
 
-- **User Interaction**  
-  - **Keyboard**:  
+##  How to Run
+
+1. Go to the [Releases](../../releases) page.
+2. Download **Carousel_Release.zip**.
+3. Extract the zip file.
+4. Double-click **Carousel.exe** (make sure the `textures/` folder is in the same directory).
+   
+---
+
+## Control:  
     - `w/s/a/d` → look/rotate  
     - `q/e` → zoom in/out (third-person)  
     - `f` → switch to first-person  
@@ -21,10 +29,4 @@ It features hierarchical modeling, lighting, texture mapping, and multiple inter
 
 ---
 
-##  How to Run
-
-1. Go to the [Releases](../../releases) page.
-2. Download **Carousel_Release.zip**.
-3. Extract the zip file.
-4. Double-click **Carousel.exe** (make sure the `textures/` folder is in the same directory).
 
